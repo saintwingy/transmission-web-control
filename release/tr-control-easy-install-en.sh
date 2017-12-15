@@ -5,7 +5,7 @@ orgindex="index.original.html"
 index="index.html"
 tmpFolder="/tmp/tr-web-control"
 packname="transmission-control-full.tar.gz"
-host="https://github.com/ronggang/transmission-web-control/raw/master/release/"
+host="https://github.com/saintwingy/transmission-web-control/raw/master/release/"
 downloadurl="$host$packname"
 if [ ! -d "$tmpFolder" ]; then
 	mkdir -p "$tmpFolder"
